@@ -15,15 +15,10 @@ namespace Inscriçoes
         public Form1()
         {
             InitializeComponent();
-        }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
             
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
             
         }
 
@@ -36,24 +31,14 @@ namespace Inscriçoes
         {
             
         }
-        private void label3_Click(object sender, EventArgs e)
-        {
             
-        }
-        private void label5_Click(object sender, EventArgs e)
-        {
            
         }
         private void textBox1_Click(object sender, EventArgs e)
         {
           
         }
-        private void textBox2_Click(object sender, EventArgs e)
-        {
            
-        }
-        private void textBox3_Click(object sender, EventArgs e)
-        {
            
         }
         private void textBox4_Click(object sender, EventArgs e)
@@ -73,13 +58,6 @@ namespace Inscriçoes
         private void label6_Click(object sender, EventArgs e)
         {
 
-        }
-
-        private void button2_Click_1(object sender, EventArgs e)
-        {
-            Form2 form2 = new Form2();  // Cria uma instância do Form2
-            form2.Show();               // Mostra o Form2
-            this.Hide();                // Esconde o Form1 (opcional)
         }
     }
 }
